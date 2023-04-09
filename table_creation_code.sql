@@ -7,9 +7,6 @@ Two tables need to be created for loading the data , first one is OLYMPICS_HISTO
 */
 
 
-
-
-
 DROP TABLE IF EXISTS OLYMPICS_HISTORY;
 CREATE TABLE IF NOT EXISTS OLYMPICS_HISTORY
 (

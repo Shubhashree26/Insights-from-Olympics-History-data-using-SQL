@@ -24,7 +24,7 @@ I wrote 20 SQL Queries using this data. For each of these queries, you would fin
 3. France, UK, Italy, and Switzerland are the only countries those participated in all of the 51 Olympics games conducted till now.
 4. Udham Singh Kular and Leslie Walter Claudius are the 2 athletes from India who won the most gold medals for India in the Olympics. (Game - Hockey)
 
-[Please go through this LinkedIn post where I shared the insights] (https://www.linkedin.com/posts/shubhashree-munot-91447aa0_olympicsproject-activity-7051143661119574016-3vhh?utm_source=share&utm_medium=member_desktop)
+[Please go through this LinkedIn post where I shared the insights](https://www.linkedin.com/posts/shubhashree-munot-91447aa0_olympicsproject-activity-7051143661119574016-3vhh?utm_source=share&utm_medium=member_desktop)
 
 
 
